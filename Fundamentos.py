@@ -83,3 +83,5 @@ print(t)
 print(t[2])
 print("t[1:4]:", t[1:4])
 #t[1] = 34 Operación no válida en tuplas.
+
+nuevoTema("Cadenas")
